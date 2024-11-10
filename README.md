@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @marianciorasteanu;
-- 👀 I’m interested in cloud infrastructure and cloud deployment along with Bash and Python scripting;
+- 👀 I’m interested in Cloud Infrastructure and Cloud Deployment along with Bash and Python scripting;
 - 🌱 I’m currently writing code in Bash and Python;
 - 📫 How to reach me - > mciorasteanu@yahoo.com;
