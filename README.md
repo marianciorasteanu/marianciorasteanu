@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @valentinsoare;
-- 👀 I’m interested in Software Design Principles, Data Structures and high performance apps;
-- 🌱 I’m currently writing code in Java and Spring Boot;
-- 📫 How to reach me - > soarevalentinn@gmail.com
+- 👋 Hi, I’m @marianciorasteanu;
+- 👀 I’m interested in cloud infrastructure and cloud deployment along with Bash and Python scripting;
+- 🌱 I’m currently writing code in Bash and Python;
+- 📫 How to reach me - > mciorasteanu@yahoo.com;
