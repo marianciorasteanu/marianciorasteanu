@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @valentinSoare;
+- 👋 Hi, I’m @ValentinSoare;
 - 👀 I’m interested in OOP, Deesign Patterns, Java and Spring Boot.
 - 🌱 I’m currently writing code in Java and Python;
 - 📫 How to reach me - > soarevalentinn@gmail.com;
